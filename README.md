@@ -35,4 +35,4 @@ App-R4 (Airbnb) and App-R5 (Dropbox) are missing JS Execution Time and CPU Utili
 Four Angular applications' Page Size values were corrected after an initial measurement error (the browser recorded the initial HTML document size rather than total page weight) was identified and verified against each application's Network tab totals.
 
 Full methodology, data collection procedure, and statistical analysis are documented in the accompanying dissertation.
-![Dashboard screenshot](images/dashboard-screenshot.png)
+![Dashboard screenshot](Dashboard.png)
